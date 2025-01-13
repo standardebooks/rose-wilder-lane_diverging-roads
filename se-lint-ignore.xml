@@ -3,7 +3,7 @@
 	<file path="chapter-21.xhtml">
 		<ignore>
 			<code>y-022</code>
-			<reason>multiple speakers in paragraph</reason>
+			<reason>Multiple speakers are speaking in one paragraph.</reason>
 		</ignore>
 	</file>
 </se-lint-ignore>
