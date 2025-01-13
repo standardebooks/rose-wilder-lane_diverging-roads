@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/rose-wilder-lane/diverging-roads</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-13T17:12:52Z</dc:date>
+		<meta property="dcterms:modified">2025-01-13T17:12:52Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -40,15 +40,15 @@
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A young woman leaves her parents’ farm to make it on her own in the city.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Helen is finishing high school and wants to leave the California farm of her parents, where they struggle to get by, to find a job and earn her own income. With her strong personality, she desires some independence. She has an understanding with Paul that they will marry someday, but he must also leave town to start work. Helen figures that if she can learn telegraphy and earn some money, she can bring the day closer when she and Paul can marry. She imagines working with Paul as a husband and wife team. But it is apparent from the start that Paul does not like the idea of a working wife.&lt;/p&gt;
-			&lt;p&gt;As Helen starts to make her way in the world, she finds that her desires are often in conflict with each other. Work is drudgery, but it gives her some freedom. She tries to find fulfillment in her crowd of friends, who are pushing off the conservative inhibitions of the day in the big cities like San Francisco. She is swept off her feet by an exciting man, Bert, who has his own ideas of what he wants a woman to be. After marrying quickly, there is financial trouble, and Helen finds that she must strike out on her own to retain her independence. Helen longs for marriage, a home, and children, but settling down for these things would keep her from becoming the person she really wants to be.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/rose.-wilder-lane"&gt;Rose Wilder Lane&lt;/a&gt; was the daughter of author Laura Ingalls Wilder. Her fictional account is a reflection of her own experience as a telegraph operator, advertisement and feature write for newspapers and magazines, and seller of land in northern California. We get a glimpse of the orchards, oil leases, and hardscrabble farm plots around the Pacific Coast of the very early twentieth century. &lt;i&gt;Diverging Roads&lt;/i&gt; was Lane’s first novel. She had previously written biographies of Charlie Chaplin and Henry Ford, would complete one of Herbert Hoover the next year, and then go on to write more fiction, travel accounts, and essays on freedom and individualism.&lt;/p&gt;
+			&lt;p&gt;Helen is finishing high school and wants to leave the California farm of her parents, where they struggle to get by, to find a job and earn her own income. With her strong personality, she desires independence. She has an understanding with a young man, Paul, that they will marry someday, but he must also leave town to start work. Helen figures that if she can learn telegraphy and earn some money, she can bring the day closer when she and Paul can marry. She imagines working with Paul as a husband and wife team—but it’s apparent from the start that Paul doesn’t like the idea of a working wife.&lt;/p&gt;
+			&lt;p&gt;As Helen starts to make her way in the world, she finds that her desires are often in conflict with each other. Work is drudgery, but it gives her some freedom. She tries to find fulfillment in her crowd of friends, who are pushing off the conservative inhibitions of the day in the big cities like San Francisco. She’s swept off her feet by an exciting man, Bert, who has his own ideas of what he wants a woman to be. After marrying quickly, they run in to financial trouble, and Helen finds that she must strike out on her own to retain her independence. Helen longs for marriage, a home, and children, but settling down for these things would keep her from becoming the person she really wants to be.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/rose-wilder-lane"&gt;Rose Wilder Lane&lt;/a&gt; was the daughter of author Laura Ingalls Wilder, and &lt;i&gt;Diverging Roads&lt;/i&gt; is her first novel. This fictional account is a reflection of her own experience as a telegraph operator, advertisement and feature writer for newspapers and magazines, and seller of land in northern California. We get a glimpse of the orchards, oil leases, and hardscrabble farm plots around the Pacific Coast of the very early twentieth century.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74612</dc:source>
 		<dc:source>https://archive.org/details/divergingroads00lanerich</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">83424</meta>
+		<meta property="se:reading-ease.flesch">74.79</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rose-wilder-lane_diverging-roads</meta>
 		<dc:creator id="author">Rose Wilder Lane</dc:creator>
 		<meta property="file-as" refines="#author">Lane, Rose Wilder</meta>
@@ -80,6 +80,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Vince Rice</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Rice, Vince</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.brokenandsa</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
