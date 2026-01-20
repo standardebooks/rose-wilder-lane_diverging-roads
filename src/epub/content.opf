@@ -48,7 +48,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/74612</dc:source>
 		<dc:source>https://archive.org/details/divergingroads00lanerich</dc:source>
-		<meta property="se:word-count">83424</meta>
+		<meta property="se:word-count">81737</meta>
 		<meta property="se:reading-ease.flesch">74.79</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rose-wilder-lane_diverging-roads</meta>
 		<dc:creator id="author">Rose Wilder Lane</dc:creator>
